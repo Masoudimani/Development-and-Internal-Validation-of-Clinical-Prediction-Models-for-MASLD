@@ -23,4 +23,4 @@ Due to ethical restrictions and patient confidentiality guidelines (Ethics Commi
 3. Run the Jupyter Notebook `MASLD_7Year_Prediction.ipynb`.
 
 PS: If you get this error "Unable to render code block" use the link below... 
-# https://nbviewer.org/github/Masoudimani/Development-and-Internal-Validation-of-Clinical-Prediction-Models-for-MASLD/blob/README/R2code.ipynb
+## https://nbviewer.org/github/Masoudimani/Development-and-Internal-Validation-of-Clinical-Prediction-Models-for-MASLD/blob/README/R2code.ipynb
