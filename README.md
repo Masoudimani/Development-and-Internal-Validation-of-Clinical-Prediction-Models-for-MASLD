@@ -20,7 +20,7 @@ Due to ethical restrictions and patient confidentiality guidelines (Ethics Commi
 ### How to Run
 1. Clone this repository.
 2. Install the dependencies: `pip install -r requirements.txt`
-3. Run the Jupyter Notebook `MASLD_7Year_Prediction.ipynb`.
+3. Run the Jupyter Notebook `Code_for_analysis.ipynb`.
 
 PS: If you get this error "Unable to render code block" use the link below... 
-### https://nbviewer.org/github/Masoudimani/Development-and-Internal-Validation-of-Clinical-Prediction-Models-for-MASLD/blob/README/MASLD_7Year_Prediction.ipynb
+### https://nbviewer.org/github/Masoudimani/Development-and-Internal-Validation-of-Clinical-Prediction-Models-for-MASLD/blob/README/Code_for_analysis.ipynb
